@@ -1,2 +1,2 @@
 This is kolin practice
-![Logo](app\src\main\res\drawableScreenshot.png)
+![Screenshot](app/src/main/res/drawable/Screenshot.png)
